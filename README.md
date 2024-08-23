@@ -37,7 +37,3 @@ To improve the tracking performance, several strategies were employed:
 - **HSV + Filter Recentralization**: 
   - Achieved the best performance in full-body tracking.
   - Slightly reduced accuracy in head tracking.
-
----
-
-This version now includes detailed explanations for why HSV and filter recentralization improved performance, making your project description even more informative and professional.
